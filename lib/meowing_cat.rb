@@ -4,7 +4,7 @@ new_cat = Cat.new
 
 attr_accessor :name 
 
-def .meow
+def meow
 puts "meow!"
 end
 
